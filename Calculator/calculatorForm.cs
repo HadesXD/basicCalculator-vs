@@ -22,6 +22,7 @@ namespace Calculator
         public calculatorForm()
         {
             InitializeComponent();
+            StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void buttonNum_Click(object sender, EventArgs e)
@@ -40,6 +41,7 @@ namespace Calculator
         private void buttonClear_Click(object sender, EventArgs e)
         {
             textBox.Clear();
+            MessageBox.Show("Osama is gay");
         }
 
         private void buttonOperator_Click(object sender, EventArgs e)
