@@ -54,9 +54,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="calculatorForm.aa.resx">
-      <DependentUpon>calculatorForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="calculatorForm.resx">
       <DependentUpon>calculatorForm.cs</DependentUpon>
     </EmbeddedResource>

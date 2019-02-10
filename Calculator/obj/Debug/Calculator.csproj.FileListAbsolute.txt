@@ -11,13 +11,10 @@ D:\dotnet\Calculator\Calculator\obj\Debug\Calculator.pdb
 D:\Repositories\basicCalculator-vs\Calculator\bin\Debug\Calculator.exe.config
 D:\Repositories\basicCalculator-vs\Calculator\bin\Debug\Calculator.exe
 D:\Repositories\basicCalculator-vs\Calculator\bin\Debug\Calculator.pdb
-D:\Repositories\basicCalculator-vs\Calculator\bin\Debug\aa\Calculator.resources.dll
 D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
-D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\Calculator.calculatorForm.resources
 D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\Calculator.Properties.Resources.resources
-D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\Calculator.calculatorForm.aa.resources
 D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
 D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\aa\Calculator.resources.dll
 D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\Calculator.exe
 D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\Calculator.pdb
+D:\Repositories\basicCalculator-vs\Calculator\obj\Debug\Calculator.calculatorForm.resources

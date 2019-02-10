@@ -15,7 +15,6 @@ namespace Calculator
         double fValue;
         double fTotal = 0;
         bool bOperation = false;
-        bool pressed = false;
         char cOpeartion;
         char old = '+';
 
