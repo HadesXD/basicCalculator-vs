@@ -1,7 +1,7 @@
 # Calculator App
 For 2019 I wanted to start re-learning VS, C# and .NET. <br/>
 So I'm currently making a calculator and surprisingly I still got it somewhat :p <br/>
-The app is currently still in development and is more ment for learning.
+The app is currently still in development and is more ment for learning. Currently in the works.
 
 <b>Used:</b>
 - language: C#
