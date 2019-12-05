@@ -1,4 +1,4 @@
-# Calculator App - Visual Studio 2015
+# Basic Calculator App - Visual Studio 2015
 This was my first ever aplication that I made in Visual Studio for High School. It's very dated, might make an improved version for fun in the future.
 
 <ul>
