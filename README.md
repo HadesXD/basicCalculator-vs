@@ -1,16 +1,8 @@
-# Calculator App
-For 2019 I wanted to start re-learning VS, C# and .NET. <br/>
-So I'm currently making a calculator and surprisingly I still got it somewhat :p <br/>
-The app is currently still in development and is more ment for learning. Currently in the works.
+# Calculator App - Visual Studio 2015
+This was my first ever aplication that I made in Visual Studio for High School. It's very dated, might make an improved version for fun in the future.
 
-<b>Used:</b>
-- language: C#
-- framework: .NET
-- IDE: Visual Studio 2017
-
-<b>To Do:</b>
-- fix bugs
-- comment the code
-- optimize the code
-- make it more user friendly
-- add more content
+<ul>
+  <li><b>Date:</b> January 2015</li>
+  <li><b>Languages:</b> C#</li>
+  <li><b>IDE:</b> Visual Studio 2015</li>
+</ul>
