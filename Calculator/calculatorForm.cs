@@ -40,7 +40,6 @@ namespace Calculator
         private void buttonClear_Click(object sender, EventArgs e)
         {
             textBox.Clear();
-            MessageBox.Show("Osama is gay");
         }
 
         private void buttonOperator_Click(object sender, EventArgs e)
@@ -80,7 +79,7 @@ namespace Calculator
             }
             else
             {
-                MessageBox.Show("Stop it faggot!");
+                MessageBox.Show("Stop it!");
             }
 
         }
